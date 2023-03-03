@@ -8,6 +8,7 @@ import { useNavigate } from 'react-router-dom';
 
 
 
+
 export default function CourseInfo() {
     const params = useParams()
     const course = params.course
